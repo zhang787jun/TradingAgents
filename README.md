@@ -1,3 +1,5 @@
+> **Maintenance status — 2026-10-19:** This fork is retained as an upstream reference and is no longer an actively developed project. The pre-retirement main commit `a438acdbbd622a4d3c112d23f7462651f8f9aeee` had no commits ahead of upstream. Use [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) for current development and support. Original licensing and attribution remain intact. The baseline is preserved at `archive/pre-consolidation-2026-10-19`; GitHub's read-only archive setting is pending. Archiving a public fork does not make it private.
+
 <p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
 </p>
